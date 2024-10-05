@@ -1,10 +1,11 @@
 ## Prerequisites
-1- Kubernetes Cluster
-2- kubectl
-3- Maven (3.9.6) and Java-17 installed in your system
-4- Install Docker
-5- You should have access to Docker Hub repo from your system to push the docker image.
-6- MySQL client (Optional) – If you will log in to your MySQL database through CLI
+- **Kubernetes Cluster**
+- **kubectl**
+- **Maven** (3.9.6) and **Java-17** installed on your system
+- **Docker** installed
+- Access to a **Docker Hub** repository to push the Docker image
+- **MySQL client** (Optional) – If you plan to log in to your MySQL database through CLI
+
 
 
 You will practically use the following key Kubernetes objects. It will help you understand how these objects can be used in real-world project implementations:
